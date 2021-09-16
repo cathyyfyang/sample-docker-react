@@ -19,5 +19,5 @@ deploy:
   bucket_path: "sample" ### S3 folder name under S3 bucket above
   on:
     branch: main
-  access_key_id: "$AWS_ACCESS_KEY"
-  secret_access_key: "$AWS_SECRET_KEY"
+  access_key_id: "AKIAUXLNXF7GPGLMW3GJ"
+  secret_access_key: "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"
